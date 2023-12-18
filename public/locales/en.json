@@ -1,0 +1,34 @@
+{
+	"info": {
+		"botstarted": "Bot started!",
+		"event": "Loaded Event:",
+		"command": {
+			"music": "Loaded Music Command:",
+			"general": "Loaded General Command:"
+		}
+	},
+	"success": {
+		"audio": {
+			"add": "{{count, number}} audio(s) successfully added!",
+			"playing": "Playing...",
+			"skip": "Skip...",
+			"pause": "Paused.",
+			"endofplaylist": "End of playlist."
+		}
+	},
+	"error": {
+		"voice": {
+			"needvc": "You need to be in a voice channel to use this command!",
+			"needsamevc": "You need to be in the same voice channel as me!"
+		},
+		"audio": {
+			"search": "Audio searching error.",
+			"alreadyplaying": "Audio already playing.",
+			"nothingtoskip": "Nothing to skip.",
+			"pause": "Audio already paused.",
+			"emptyplaylist": "Empty playlist.",
+			"notfound": "Audio not found."
+		},
+		"somethingwentwrong": "Something went wrong :c"
+	}
+}

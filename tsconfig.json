@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		// Basic Options
+		"target": "ESNext",
+		"outDir": "build",
+
+		// Type Checking
+		"strict": true,
+		"noImplicitAny": true,
+
+		// Modules
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+
+		// Interop Constraints
+		"esModuleInterop": true
+	}
+}
